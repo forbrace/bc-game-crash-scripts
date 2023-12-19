@@ -1,4 +1,4 @@
-# BC Originals Crash Scripts
+# Scripts for Crash by BC Originals
 
 Automated strategy management for BC Originals Crash Game.
 
